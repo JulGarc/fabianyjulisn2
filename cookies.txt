@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.aguanea.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1668697348|VwINJpJJQKS3
+www.aguanea.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.aguanea.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss_miss#dc#desc=fastly_g
+
